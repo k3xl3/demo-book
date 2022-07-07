@@ -6,9 +6,9 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="meta_frontmatter">
   <titlepage>
     <author>
-      <personname>Me</personname>
-      <department>My department</department>
-      <institution>My school</institution>
+      <personname>Rob Malo</personname>
+      <department>Department of Mathematical Sciences</department>
+      <institution>Montana State University</institution>
     </author>
     <date><today/></date>
   </titlepage>
