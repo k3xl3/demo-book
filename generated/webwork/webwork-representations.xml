@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<webwork-representations>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="16" xml:id="extracted-webwork-1" ww-id="webwork-1">
+    <static seed="1" source="Library/Michigan/Chap3Sec7/Q21.pg">
+      <statement><p>Find the slope of the tangent to the curve
+<m>x^{2}+6xy+y^{2} = 17</m>  at <m>(1,2)</m>.</p>
+<p>The slope is <fillin name="AnSwEr0001" characters="5"/>.</p>
+<p><em>(Enter <alert>undef</alert> if the
+slope is not defined at this point.)</em></p>
+</statement>
+      <answer>
+        <p>
+          <m>-{\textstyle\frac{7}{5}}</m>
+        </p>
+      </answer>
+      <solution><p>Differentiating with respect to <m>x</m> gives
+<m>2 x + 6 y + 6 x y' + 2y y'=0</m>
+so that
+<m>y' = -\frac{2 x + 6 y}{6 x + 2 y}</m>.</p>
+<p>At the point <m>(1,2)</m> the slope is
+<m>- \frac{2\cdot 1+6\cdot 2}{6\cdot 1+2\cdot 2} = -{\textstyle\frac{7}{5}}</m>.</p>
+</solution>
+    </static>
+    <server-data sourceFilePath="Library/Michigan/Chap3Sec7/Q21.pg" domain="https://webwork-ptx.aimath.org" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Michigan/Chap3Sec7/Q21.pg"/>
+  </webwork-reps>
+</webwork-representations>
