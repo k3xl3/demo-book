@@ -34,6 +34,11 @@
     </hint>
   </exercise>
   
+  <exercise xml:id="ez-2-7-WW4" permid="VYd">
+    <title>Slope of the tangent line to an implicit curve</title>
+    <webwork source="Library/Michigan/Chap3Sec7/Q21.pg" />
+  </exercise>
+  
   <!-- For an example of WeBWorK, uncomment the next -->
   <!-- exercise and run `pretext build html -w`.     -->
   <!-- <exercise>
