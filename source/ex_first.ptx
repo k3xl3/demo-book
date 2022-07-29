@@ -3,7 +3,7 @@
 <exercises xml:id="ex_first" xmlns:xi="http://www.w3.org/2001/XInclude">
   <!-- You can ommit the title and just get the default "Exercises" -->
   <title>My Exercises</title>
-  
+
   <exercise>
     <statement>
       <p>
@@ -33,15 +33,17 @@
       </p>
     </hint>
   </exercise>
-  
+
+
   <exercise xml:id="ez-2-7-WW4" permid="VYd">
     <title>Slope of the tangent line to an implicit curve</title>
     <webwork source="Library/Michigan/Chap3Sec7/Q21.pg" />
   </exercise>
-  
+
+
   <!-- For an example of WeBWorK, uncomment the next -->
   <!-- exercise and run `pretext build html -w`.     -->
-  <!-- <exercise>
+  <exercise>
     <webwork xml:id="ex_first-webwork-add-numbers">
       <description>
         Add two positive single-digit integers.
@@ -68,7 +70,6 @@
         </p>
       </solution>
     </webwork>
-  </exercise> -->
+  </exercise>
 
 </exercises>
-
