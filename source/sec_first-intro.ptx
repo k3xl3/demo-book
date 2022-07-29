@@ -18,6 +18,9 @@
     <p>
       More content.
     </p>
+    <remark>
+      This is a remark.
+    </remark>
   </subsection>
 
   <subsection xml:id="subsec_another-subsection">
@@ -31,6 +34,14 @@
     <p>
       After the last subsection, you might have a conclusion.
     </p>
+    <aside>
+        <title>A Sample Aside</title>
+        <p>Here is some text inside a sample aside. I'm going
+        to put the Pythagorean identity below:
+        <me>\sin^2(x) + \cos^2(x) = 1</me>.</p>
+        <p>This aside has two paragraphs. You can't do
+        that with a footnote.</p>
+    </aside>
   </conclusion>
-</section>
 
+</section>
